@@ -1,4 +1,4 @@
-
+Enhance VMware Fusion for macOS with VMware Fusion for macOS secure Script: malware-scanner & disk-analysis, the #1 script. Includes malware-scanner and disk-analysis for a
 
 
 
